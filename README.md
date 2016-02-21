@@ -26,3 +26,7 @@ schedules = f( shipments )
 
 The input file is read from the stdin and the output file is written to the stdout. As an example, please take a look at ./data/trans.sh
 (please, execute sbt assembly to create the project jar before using trans.sh)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/darienmt/ice-road/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
